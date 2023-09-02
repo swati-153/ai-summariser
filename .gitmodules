@@ -1,0 +1,3 @@
+[submodule "ai_summariser/project_ai_summarizer"]
+	path = ai_summariser/project_ai_summarizer
+	url = https://github.com/swati-153/ai-summariser.git
